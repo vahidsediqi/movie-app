@@ -1,0 +1,2 @@
+body{background:#141414;color:#fff}.movie-wrapper{display:flex;overflow-x:auto;flex-wrap:nowrap}.image-container{position:relative;transition:transform .2s}.image-container:hover{cursor:pointer;transform:scale(1.1)}.image-container:hover .overlay{opacity:1}.overlay{position:absolute;background-color:rgba(0,0,0,.8);width:100%;bottom:0;transition:.5s ease;opacity:0;font-size:20px;height:55px}
+/*# sourceMappingURL=main.19fe4e83.chunk.css.map */
